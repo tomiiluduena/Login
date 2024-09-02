@@ -1,0 +1,11 @@
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Models\bin\Debug\net6.0\BE-login-Models.deps.json
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Models\bin\Debug\net6.0\BE-login-Models.dll
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Models\bin\Debug\net6.0\BE-login-Models.pdb
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Models\obj\Debug\net6.0\BE-login-Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Models\obj\Debug\net6.0\BE-login-Models.AssemblyInfoInputs.cache
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Models\obj\Debug\net6.0\BE-login-Models.AssemblyInfo.cs
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Models\obj\Debug\net6.0\BE-login-Models.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Models\obj\Debug\net6.0\BE-login-Models.dll
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Models\obj\Debug\net6.0\refint\BE-login-Models.dll
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Models\obj\Debug\net6.0\BE-login-Models.pdb
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Models\obj\Debug\net6.0\ref\BE-login-Models.dll

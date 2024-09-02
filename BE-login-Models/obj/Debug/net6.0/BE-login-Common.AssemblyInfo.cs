@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BE-login")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("BE-login-Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a991a04d7ea815cc096ca177d9f75ceb7e00078c")]
-[assembly: System.Reflection.AssemblyProductAttribute("BE-login")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BE-login")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("BE-login-Common")]
+[assembly: System.Reflection.AssemblyTitleAttribute("BE-login-Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

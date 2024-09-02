@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>BE_login_Service</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BE-login-Date\BE-login-Date.csproj" />
+    <ProjectReference Include="..\BE-login-Models\BE-login-Common.csproj" />
+  </ItemGroup>
+
+</Project>
