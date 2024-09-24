@@ -1,0 +1,17 @@
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Service\bin\Debug\net6.0\BE-login-Service.deps.json
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Service\bin\Debug\net6.0\BE-login-Service.dll
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Service\bin\Debug\net6.0\BE-login-Service.pdb
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Service\bin\Debug\net6.0\BE-login-Common.dll
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Service\bin\Debug\net6.0\BE-login-Date.dll
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Service\bin\Debug\net6.0\BE-login-Date.pdb
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Service\bin\Debug\net6.0\BE-login-Common.pdb
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Service\obj\Debug\net6.0\BE-login-Service.csproj.AssemblyReference.cache
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Service\obj\Debug\net6.0\BE-login-Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Service\obj\Debug\net6.0\BE-login-Service.AssemblyInfoInputs.cache
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Service\obj\Debug\net6.0\BE-login-Service.AssemblyInfo.cs
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Service\obj\Debug\net6.0\BE-login-Service.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Service\obj\Debug\net6.0\BE-login.3D15EDF4.Up2Date
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Service\obj\Debug\net6.0\BE-login-Service.dll
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Service\obj\Debug\net6.0\refint\BE-login-Service.dll
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Service\obj\Debug\net6.0\BE-login-Service.pdb
+C:\Users\Tomas\OneDrive\Escritorio\Login\BE-login-Service\obj\Debug\net6.0\ref\BE-login-Service.dll
